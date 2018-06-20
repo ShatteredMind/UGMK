@@ -1,0 +1,20 @@
+{
+    "posts" : [
+        {
+            "title": "Hey",
+            "url": "https://basket.ugmk.com/common/img/bknews/2018/IMG_0405_EB_MK.jpg",
+            "description": "Somethign weird is going on here, so don't bother much"
+        },
+        {
+            "title": "JSON FEYCHED FROM LOCAL SERVER",
+            "url": "https://basket.ugmk.com/common/img/bknews/2018/All_Team.jpg",
+            "description": "Somethign weird is going on here, so don't bother much"
+        },
+        {
+            "title": "Something again",
+            "url": "https://basket.ugmk.com/common/img/bknews/2018/IMG_0205_MK.jpg",
+            "description": "Somethign weird is going on here, so don't bother much"
+        }
+    ]
+    
+}
